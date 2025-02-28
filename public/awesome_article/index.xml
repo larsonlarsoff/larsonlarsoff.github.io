@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Awesome_articles on Larsoff</title>
+    <link>http://localhost:1313/awesome_article/</link>
+    <description>Recent content in Awesome_articles on Larsoff</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>larsen.iorgovits@larsoff.com (Larsen Iorgovits)</managingEditor>
+    <webMaster>larsen.iorgovits@larsoff.com (Larsen Iorgovits)</webMaster>
+    <copyright>© 2025 Larsen Iorgovits</copyright>
+    <lastBuildDate>Thu, 27 Feb 2025 10:44:48 -0500</lastBuildDate><atom:link href="http://localhost:1313/awesome_article/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Hello World</title>
+      <link>http://localhost:1313/awesome_article/hello-world/</link>
+      <pubDate>Thu, 27 Feb 2025 10:44:48 -0500</pubDate>
+      <author>larsen.iorgovits@larsoff.com (Larsen Iorgovits)</author>
+      <guid>http://localhost:1313/awesome_article/hello-world/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
